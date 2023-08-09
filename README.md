@@ -13,10 +13,6 @@
   <hr>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=gopnikak47&show_icons=true&theme=tokyonight&count_private=true">
-  </a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api//top-langs?username=gopnikak57&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
-  </a><br>
   <br>
   <div align="left">
     <h4>Where you can find me:</h4>
