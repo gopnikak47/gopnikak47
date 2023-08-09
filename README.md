@@ -6,7 +6,7 @@
   </ul>
   <ul align="left">
     <h4>Resources that I'm currently supporting:</h4>
-    <li><a href="https://github.com/BadAimWeeb">BadAimWeeb's</a> NOCOM_BOT, the upcoming kernel for bots. Powerful, highly customizable. <a href="https://github.com/NOCOM-BOT">Org</a></li>
+    <li><a href="https://github.com/BadAimWeeb">BadAimWeeb's</a> <a href="https://github.com/NOCOM-BOT">NOCOM_BOT</a></li>, the upcoming kernel for bots. Powerful, highly customizable. 
     <ul>
       <li>The all-new version of C3CBot, based on NOCOM_BOT. Has support for Facebook/Discord (slash command included)/Telegram and many more to come. <a href="https://github.com/c3cbot/c3cbot">Repository</a> (⚠️ BETA software ⚠️)</li>
   </ul>
